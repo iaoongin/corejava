@@ -1,4 +1,4 @@
-package corejava.day17;
+package corejava.day17_thread;
 
 public class DeadLock extends Thread{
 

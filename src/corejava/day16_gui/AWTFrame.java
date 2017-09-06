@@ -1,4 +1,4 @@
-package corejava.day16;
+package corejava.day16_gui;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;

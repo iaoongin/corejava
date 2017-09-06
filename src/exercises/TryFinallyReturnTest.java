@@ -1,5 +1,10 @@
 package exercises;
 
+/**
+ * @author XHX
+ *	return 把需要返回的内容放到一个容器
+ *	再执行finally
+ */
 public class TryFinallyReturnTest {
 
 	public static void main(String[] args) {

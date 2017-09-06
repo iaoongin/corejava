@@ -1,4 +1,4 @@
-package corejava.day19;
+package corejava.day19_net;
 
 
 import java.io.Closeable;
