@@ -1,0 +1,9 @@
+package com.xhx.basic.ch01;
+public class HelloWorld{
+     public static void main (String[] args){
+        Scanner sc = System.in();
+         String a = sc.nextln();
+         System.out.printf("%s",a);
+    }
+}
+
